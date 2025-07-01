@@ -6,8 +6,7 @@
 retains the same properties: lightweight, minimal resource usage, 
 and gracefully copes with resource depletion.
 
-The goal of this project is to provide a lightweight, cross-platform SOCKS5 server 
-that can be easily compiled from source for various architectures and operating systems.
+The project was created to learn the Zig programming language.
 
 ## Supported Socks5 Features
 - Authentication: none, password

@@ -54,7 +54,7 @@ For example, to build with the `ReleaseSmall` mode:
 ```sh
 $ zig build -Doptimize=ReleaseSmall
 ```
-For more information, refer to the official documentation of [Zig Build System](/https://ziglang.org/learn/build-system/).
+
 ## Usage
 ```sh
 $ microsocks-zig -h

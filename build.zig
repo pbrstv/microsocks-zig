@@ -27,6 +27,7 @@ pub fn build(b: *std.Build) void {
     
     exe.root_module.addImport("clap", clap.module("clap"));
     exe.root_module.addImport("network", network.module("network"));
+    exe.linkLibC();
     exe.root_module.strip = true;
 
 
